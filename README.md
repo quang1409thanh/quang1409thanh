@@ -36,5 +36,6 @@
 
 ![Following](https://img.shields.io/github/following/quang1409thanh?style=social)
 
-![Stars](https://img.shields.io/github/stars/quang1409thanh?affiliations=OWNER%2CCOLLABORATOR)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=quang1409thanh)](https://github.com/quang1409thanh/github-readme-activity-graph)
+
 # quang1409thanh
